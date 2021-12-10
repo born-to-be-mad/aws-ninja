@@ -8,7 +8,7 @@ Dzmitry Marudau <vinmaster@tut.by>
 <<<
 == Task
 
-The purpose of this service is to handle secure communication in H3 domain by providing necessary APIs and messaging via event ingestion service(Azure event hub).
+Cloud Watch EC2 Custom Metrics
 
 == How to run
 

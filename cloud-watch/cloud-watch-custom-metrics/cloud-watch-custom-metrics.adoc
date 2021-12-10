@@ -1,0 +1,14 @@
+= AWS: Cloud Watch
+Dzmitry Marudau <vinmaster@tut.by>
+1.0, December 10, 2021: Initial service
+:toc:
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+<<<
+== Task
+
+Cloud Watch EC2 Event for EC2 instance state change
+
+== How to run
+

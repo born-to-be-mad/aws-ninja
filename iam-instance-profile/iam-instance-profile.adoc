@@ -1,0 +1,16 @@
+= AWS: Cloud Watch
+Dzmitry Marudau <vinmaster@tut.by>
+1.0, December 11, 2021: Initial service
+:toc:
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+<<<
+== Task
+
+IAM Instance profile is a container for an IAM role that you can use to pass the role information to an EC2 instance when it starts.
+An instance profile can contain only one IAM role, but this role can be included in multiple profiles.
+
+== How to run
+
+Just play with `create-instance-profile.sh` script
